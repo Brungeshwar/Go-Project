@@ -1,0 +1,7 @@
+                         First Bill
+chocolates                : 300.000000
+milk                      : 300.000000
+vegetables                : 40.000000
+TipAmount: 0 
+TotalAmount: 640 
+----------
